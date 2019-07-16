@@ -1,0 +1,5 @@
+# Compiled files
+.pyc
+
+# Notebooks checkpoints
+.ipynb_checkpoints
