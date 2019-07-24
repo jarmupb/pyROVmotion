@@ -16,5 +16,6 @@ The work has been funded by:
 - Universidad Nacional de Colombia
 
 The suite is composed by the following modules:
-1. rov.py
-2. ... more coming up
+1. rov.py: to simulate ROVs in the time domain.
+2. kinematics.py: that defines useful kinematics-related functions.
+3. ... more coming up
