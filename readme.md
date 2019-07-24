@@ -1,4 +1,4 @@
-![Logos Instituciones](./img/logosPRS.png)
+![Logos Instituciones](./img/logosInstituciones.png)
 
 # pyROVmotion
 ## Python modules suite for steady-state and time-domain analysis for Remotely Operated Vehicles (ROV)
