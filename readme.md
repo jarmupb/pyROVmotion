@@ -1,3 +1,5 @@
+![Logos Instituciones](./img/logosPRS.png)
+
 # pyROVmotion
 ## Python modules suite for steady-state and time-domain analysis for Remotely Operated Vehicles (ROV)
 This repository contains Python modules for configuring and running steady-state and time-domain computations of ROV motion.
@@ -15,7 +17,7 @@ The work has been funded by:
 - Universidad Pontificia Bolivariana
 - Universidad Nacional de Colombia
 
-The suite is composed by the following modules:
-1. rov.py: to simulate ROVs in the time domain.
+The suite contains the following modules:
+1. rov.py: to simulate ROVs in the time domain (not released yet).
 2. kinematics.py: that defines useful kinematics-related functions.
 3. ... more coming up
